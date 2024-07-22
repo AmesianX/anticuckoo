@@ -54,6 +54,7 @@ New ideas & PRs are wellcome.
 
 ## Referenced by
 
+* Evasive Malware Understanding Deceptive and Self-Defending Threats by Kyle Cucci https://nostarch.com/evasive-malware
 * Stealthy, Hypervisor-based Malware Analysis - Tamas K Lengyel: https://www.slideshare.net/tklengyel/stealthy-hypervisorbased-malware-analysis
 * Brad Spengler (grsecurity) nice words: https://github.com/brad-sp/community-modified/commit/29587d691242a9ba890877f623fdf2447fe4336f
 * Reddit / netsec discussion about anticuckoo: https://www.reddit.com/r/netsec/comments/3atvmb/anticuckoo_a_tool_to_detect_and_crash_cuckoo/
